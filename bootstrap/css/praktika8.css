@@ -1,0 +1,58 @@
+.progress-bar{
+    margin-top: 10px;
+}
+.bg-primary{
+    background: linear-gradient(90deg,#3873A4 60%,#408BCB 40%);
+}
+.bg-success{
+    background: linear-gradient(90deg,#4F974E 60%,#5AB75C 40%);
+}
+.bg-info{
+    background: linear-gradient(90deg,#4C9EB6 90%,#5CBFDE 10%);
+}
+.bg-warning{
+    background: linear-gradient(90deg,#C28E42 70%,#EFAD4C 30%);
+}
+.bg-danger{
+    background: linear-gradient(-90deg,#D85250 70%,#B14643 30%);
+}
+p{
+    font-weight: bold;
+}
+.a{
+    position: absolute;
+    top: 10px;
+    left: 100%;
+}
+.ab{
+    position: absolute;
+    top: 45px;
+    left: 100%;
+}
+.abc{
+    position: absolute;
+    top: 80px;
+    left: 100%;
+}
+.abcd{
+    position: absolute;
+    top: 113px;
+    left: 100%;
+}
+.abcde{
+    position: absolute;
+    top: 145px;
+    left: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+

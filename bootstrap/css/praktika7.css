@@ -1,0 +1,17 @@
+.badge-light{
+    color: white;
+    display: inline-block;
+    position: absolute;
+    left: 450px;
+    top: 25px;
+}
+p{
+    display: inline-block;
+}
+.list-group{
+    width: 500px;
+}
+
+
+
+
